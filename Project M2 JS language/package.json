@@ -1,0 +1,11 @@
+{
+  "name": "project-m2-js-language",
+  "version": "1.0.0",
+  "description": "student javascript language code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Verma",
+  "license": "ISC"
+}
